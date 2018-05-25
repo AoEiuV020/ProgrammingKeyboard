@@ -1,6 +1,8 @@
 # ProgrammingKeyboard
 百度输入法的皮肤，为编程打造，  
-基于默认皮肤，仅修改竖屏英文全键盘，添加所有ascii符号，
+基于默认皮肤，仅修改竖屏英文全键盘，添加所有ascii符号，  
+
+![img](bds/demo.png)  
 
 2.0:
 基于最新的默认皮肤重做，
@@ -41,5 +43,3 @@
 2. port/res/default.css
 3. port/gen.ini
 4. res/fore2.til
-
-![img](screenshots/latest.png)
