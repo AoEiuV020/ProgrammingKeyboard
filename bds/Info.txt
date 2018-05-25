@@ -1,0 +1,6 @@
+﻿Name=啊鱼编程皮肤
+Style=default
+Author=啊o额iu鱼
+SupportPlatform=A
+SkinFlags=1
+SkinType=1
