@@ -1,5 +1,5 @@
 #!/bin/sh
-versionName="2_0"
+versionName="2_1"
 old="$(pwd)"
 cur="$(dirname $0)"
 cd $cur
