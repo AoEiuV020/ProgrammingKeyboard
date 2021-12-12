@@ -6,7 +6,6 @@ cd $cur
 
 cd bds
 target="../build/ProgrammingKeyboard-$versionName.bds"
-rm "$target"
-zip -r "$target" *
+adb push "$target" /sdcard/baidu/ime/skins
 
 cd "$old"
