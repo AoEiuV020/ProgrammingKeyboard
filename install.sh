@@ -1,5 +1,5 @@
 #!/bin/sh
-versionName=$(cat version)
+versionName=$(./latest-version.sh)
 old="$(pwd)"
 cur="$(dirname $0)"
 cd $cur
